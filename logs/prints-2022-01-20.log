@@ -1,0 +1,6 @@
+23:56:18.377 [TestNG-tests-2] INFO  MyProject.HomePageTest - Navigated to QAclick Academy
+23:56:20.649 [AsyncHttpClient-1-3] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+23:56:21.772 [TestNG-tests-2] INFO  MyProject.HomePageTest - clicked on Login button
+23:56:22.385 [TestNG-tests-2] INFO  MyProject.HomePageTest - Entered Email
+23:56:22.813 [TestNG-tests-2] INFO  MyProject.HomePageTest - Entered Password
+23:56:23.572 [TestNG-tests-2] INFO  MyProject.HomePageTest - Clicked on login button
